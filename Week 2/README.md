@@ -16,6 +16,7 @@ This project demonstrates the complete Vulnerability Assessment and Penetration 
 | Wappalyzer | Technology stack identification |
 | Sublist3r | Subdomain enumeration |
 | sha256sum | Evidence hashing |
+| built with | Technology profiler tool |
 
 ---
 
@@ -80,9 +81,9 @@ Exploitation summary
 
 | Exploit ID | Description                   | Target IP      | Status    |
 | ---------- | ----------------------------- | -------------- | --------- |
-| 004        | Samba Username Map Script RCE | 192.168.56.102 | Attempted |
-| 005        | UnrealIRCd Backdoor RCE       | 192.168.56.102 | Attempted |
-| 006        | DistCC Command Execution      | 192.168.56.102 | Success   |
+| 001        | Samba Username Map Script RCE | 192.168.56.102 | Attempted |
+| 002        | UnrealIRCd Backdoor RCE       | 192.168.56.102 | Attempted |
+| 003        | DistCC Command Execution      | 192.168.56.102 | Success   |
 
 
 ├── Screenshots/
